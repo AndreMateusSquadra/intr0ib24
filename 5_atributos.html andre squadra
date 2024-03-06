@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="classe">
+        <!--
+            isso e uma classe
+        --> 
+        
+    </div>
+    <div id="identificador">
+        Isso e um ID
+    </div>
+    <div style="color:blue">
+    Isso nao e verde</div>
+    <div title="aqui vai ser o titulo do elemento">
+        Deixe seu mouse para ver o titulo
+
+    </div>
+    <!-- isso e um comentario invisivel para o usuario-->
+    Isso não e um comentario. visivel para o usuario
+</body>
+</html>
